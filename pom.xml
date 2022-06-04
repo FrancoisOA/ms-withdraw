@@ -13,7 +13,7 @@
 	<artifactId>project-one-ms-deposit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservice-deposit</name>
-	<description>Microservice of deposits</description>
+	<description>Microservice of card</description>
 
 	<properties>
 		<java.version>11</java.version>
